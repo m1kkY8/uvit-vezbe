@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+
+    width: 30%;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+
+    text-align: center;
+    font-size: 34px;
+
+    position: relative;
+    display: flex;
+}
+
+#prvi {
+
+    background: salmon;
+}
+#drugi {
+
+    background: powderblue;
+}
+#treci {
+
+    background: pink; 
+}
